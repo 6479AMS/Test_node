@@ -1,0 +1,27 @@
+{
+  "name": "cross-platform",
+  "version": "1.0.0",
+  "description": "Cross Platform Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6479AMS/CrossPlatformTodoList.git"
+  },
+  "keywords": [
+    "cross",
+    "platform",
+    "cordova"
+  ],
+  "author": "Adhiraj Sherchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6479AMS/CrossPlatformTodoList/issues"
+  },
+  "homepage": "https://github.com/6479AMS/CrossPlatformTodoList#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
